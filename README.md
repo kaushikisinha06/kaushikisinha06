@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hey, [Kaushiki here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <!--
 **kaushikisinha06/kaushikisinha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
