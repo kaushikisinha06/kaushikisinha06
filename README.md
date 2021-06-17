@@ -38,11 +38,12 @@ Here are some ideas to get you started:
 </p>
 
 ## My Github Stats:
-![kaushiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&theme=dark&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
 
 <br>
+
+##repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaushikisinha06&repo=github-readme-stats)](https://github.com/kaushikisinha06/github-readme-stats)
 
 
