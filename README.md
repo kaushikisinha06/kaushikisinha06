@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
 <br>
 
-##Top Langs
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
 <br>
 
-##Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshTheReal)](https://github.com/kaushikisinha06/github-readme-streak-stats)
 <br>
 
