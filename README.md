@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 -->
 ## Github Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
-<br>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
 <br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshTheReal)](https://github.com/kaushikisinha06/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshTheReal)](https://github.com/kaushikisinha06/github-readme-streak-stats)
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
