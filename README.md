@@ -32,15 +32,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/kaushiki-sinha-b52853183/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https:) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https:) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:kaushiki0608@gmail.com) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/kaushikisinha06)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
