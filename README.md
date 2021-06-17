@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
 <br>
 
 
