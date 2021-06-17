@@ -1,4 +1,4 @@
-### Hi there 👋[![Kaushiki Sinha's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/kaushikisinha06)
+### Hi there 👋
 
 <!--
 **kaushikisinha06/kaushikisinha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+ <a href="https://dev.to/kaushikisinha06">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kaushiki Sinha's DEV Community Profile" height="30" width="30">
+</a>
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/kaushiki-sinha-b52853183/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kaushiki0608@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
