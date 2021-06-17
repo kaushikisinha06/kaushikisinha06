@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiveshTheReal)](https://github.com/kaushikisinha06/github-readme-streak-stats)
+
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
