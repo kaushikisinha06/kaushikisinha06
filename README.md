@@ -1,13 +1,13 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there ![hello](https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966)
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<!--<h1>Welcome to my humble abode in the Digital World..</h1> -->
 
 <!--
 **kaushikisinha06/kaushikisinha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on how to flex with Github Bio
 - 🌱 I’m currently learning React Js
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:By going through connect me section
 - 😄 Pronouns: ...
 - ⚡ Fun fact:Engineer by choice
-
+-->
 ## Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
