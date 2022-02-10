@@ -8,16 +8,17 @@
 
 Here are some ideas to get you started:
 
-
-- 🔭 I’m currently working on how to flex with Github Bio
-- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me:By going through connect me section
-- 😄 Pronouns: ...
-- ⚡ Fun fact:Engineer by choice
+- 💬 Ask me about 
 -->
+- 🔭 I’m currently working on how to flex with Github Bio
+- 🌱 I’m currently learning how not to overthink
+- 🤔 I’m looking for help with coding skills
+- 📫 How to reach me:By going through connect me section
+- 😄 Pronouns: 
+- ⚡ Fun fact:Engineer by choice
+
 ## Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikisinha06&layout=synthwave)](https://github.com/kaushikisinha06/github-readme-stats)
