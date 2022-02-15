@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on how to flex with Github Bio
 - 🌱 I’m currently learning how not to overthink
 - 🤔 I’m looking for help with coding skills
-- 📫 How to reach me:By going through connect me section
-- 😄 Pronouns: 
-- ⚡ Fun fact:Engineer by choice
+- 📫 How to reach me: By going through connect me section
+- 😄 Pronouns: Suggest me one
+- ⚡ Fun fact: Engineer by choice
 
 ## Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikisinha06&show_icons=true&theme=synthwave)
